@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\React"
+		},
+		{
+			"path": "..\\HTML"
+		},
+		{
+			"path": "..\\TypeScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
